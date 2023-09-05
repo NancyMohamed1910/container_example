@@ -21,9 +21,9 @@ void main() {
                 //crossAxisAlignment: CrossAxisAlignment.baseline,
 
               children: [
-              Container(height: 100, width: 100, color: Colors.green),
-              Container(height: 100, width: 100, color: Colors.pink),
-              Container(height: 100, width: 100, color: Colors.limeAccent),
+              Container(height: 100, width:100, color: Colors.green),
+              Container(height: 100, width:100, color: Colors.pink),
+              Container(height: 100, width:100, color: Colors.limeAccent),
                 ],
               ),
             ),
